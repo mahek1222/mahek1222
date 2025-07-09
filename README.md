@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Suthar Mahek!
 
-<!--
-**mahek1222/mahek1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate Computer Engineering student at **Vishwakarma Government Engineering College**, and a proud diploma graduate from **Government Polytechnic Gandhinagar**.
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to explore new technologies and develop practical solutions. With a strong foundation in backend development and databases, I'm currently enhancing my skills to become a full-fledged developer.
+
+## 🛠️ Skills
+
+- 🌐 HTML
+- 💾 DBMS
+- 🧠 C Language
+- 🔧 PHP
+
+## 📬 Contact Me
+
+- 📧 Email: [maheksuthar03@gmail.com](mailto:maheksuthar03@gmail.com)
+
+
+
+
+
+
