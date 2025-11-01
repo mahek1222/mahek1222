@@ -17,7 +17,22 @@ I'm always eager to explore new technologies and develop practical solutions. Wi
 
 - 📧 Email: [maheksuthar03@gmail.com](mailto:maheksuthar03@gmail.com)
 
-
+┌────────────────────────────────────────────┐
+ │                CPU Core                    │
+ │ ┌─────────────┐  ┌──────────────┐          │
+ │ │  ALU        │  │  Shifter     │          │
+ │ └─────────────┘  └──────────────┘          │
+ │        │                 │                 │
+ │ ┌──────────────────────────────┐            │
+ │ │     Register File (37 regs)  │            │
+ │ └──────────────────────────────┘            │
+ │        │                 │                 │
+ │ ┌──────────────┐  ┌──────────────┐         │
+ │ │  Control     │  │  Pipeline    │         │
+ │ └──────────────┘  └──────────────┘         │
+ │                ↓                           │
+ │        Instruction Decoder                 │
+ └────────────────────────────────────────────┘
 
 
 
