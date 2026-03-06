@@ -28,5 +28,5 @@ To build strong technical skills and pursue a career in Cybersecurity and Cyber 
 
 ## 📬 Contact Me
 
-- 📧 Email: [maheksuthar03@gmail.com](mailto:maheksuthar03@gmail.com)
+- 📧 Email: maheksuthar03@gmail.com
 
